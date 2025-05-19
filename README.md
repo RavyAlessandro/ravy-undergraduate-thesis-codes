@@ -1,2 +1,2 @@
 # ravy-undergraduate-thesis-codes
-This is for now, i will change it later.
+Code implementing the derivations and calculations of all key quantities used in the thesis, including reaction rates, energy loss rates, and neutrino spectra, based on Wolfram Mathematica notebooks.
