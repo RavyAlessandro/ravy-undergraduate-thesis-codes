@@ -7,6 +7,6 @@ Code implementing the derivations and calculations of all key quantities used in
 
 "NeuPairRQJ.nb" calculated the neutrino emission quantities, such as reaction rates (R), energy loss rates (Q), and second moment of energy rate (J).
 
-"NeuPairSpec.nb: calculated the neutrino spectra.
+"NeuPairSpec.nb" calculated the neutrino spectra.
 
 Note that this is only valid in the pair-annihilation process in the thesis. For other particle processes, the codes must be adjusted.
